@@ -1,4 +1,4 @@
-```
+```javascript
 function mapeStateToProps(state) {
 	return { 
 		errorMessage: state.create.errorMessage,
